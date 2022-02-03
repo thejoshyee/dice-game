@@ -1,12 +1,13 @@
-# dice-game
-Scrimba Front-End Developer - Dice Game Project
+# Scrimba Front-End Developer - Dice Game Project
 
-Focus:
+# About
+This project was for Scrimba's Front-End Developer Career Path where we focus on using javascript to build a dice game. 
 
+# Learning:
 Javascript 
 
-Added 1 additional function after course:
-  Player 1 or Player 2 will be chosen at random at the beginning of every match instead of it always starting with Player 1. 
+# Live Demo
+https://thejoshyee.github.io/dice-game/
 
-
-View the game -> https://thejoshyee.github.io/dice-game/
+# Preview
+<img src="https://github.com/thejoshyee/dice-game/blob/main/dice-game-preview.png" width="50%"/>

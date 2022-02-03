@@ -4,7 +4,9 @@
 This project was for Scrimba's Front-End Developer Career Path where we focus on using javascript to build a dice game. 
 
 # Learning:
-Javascript 
+- HTML
+- CSS
+- Javascript 
 
 # Live Demo
 https://thejoshyee.github.io/dice-game/
